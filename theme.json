@@ -7,7 +7,7 @@
             "bouncer": "#AC76FF",
             "cohost": "#AC76FF",
             "residentdj": "#AC76FF",
-            "host": "#AC76FF",
+            "host": "#CC00CC",
             "manager": "#AC76FF"
         }
     },
@@ -70,7 +70,7 @@
 		  "font-weight":"900"
 		  },
 		  "#room-host": {
-		  "color":"#4C004C",
+		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
 		  
@@ -100,9 +100,9 @@
         }
     },
    "images": {
-        "background": "http://e-nanigans.com/christmastownBG.gif",
+        "background": "http://i.imgur.com/YPHfUUx.jpg",
         "icons": {
-        "residentdj": "http://i.imgur.com/5dFaFQG.png"
+        "host": "http://i1.theportalwiki.net/img/thumb/7/79/GLaDOS_P2.png/400px-GLaDOS_P2.png"
         },
         "playback": "http://i.imgur.com/8xFgQmU.png"
 },
